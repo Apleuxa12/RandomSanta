@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomSanta</string>
+    <string name="text_begin_random">Начать жеребьёвку</string>
+    <string name="text_add_player">Добавить игрока</string>
+    <string name="text_players_list">Список игроков:</string>
+    <string name="text_clear_button">Очистить список</string>
+    <string name="text_next">Следующий</string>
+    <string name="text_next_random">Начать</string>
+    <string name="text_finish">Конец!</string>
+    <string name="text_button_mainmenu">Вернуться в главное меню</string>
+</resources>

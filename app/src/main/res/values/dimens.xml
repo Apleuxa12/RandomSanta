@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_main_activity">20sp</dimen>
+
+    <dimen name="button_width">300dp</dimen>
+    <dimen name="top_margin_first_button">60dp</dimen>
+    <dimen name="margin_between_buttons">20dp</dimen>
+    <dimen name="bottom_margin_next_button">30dp</dimen>
+    <dimen name="left_margin">52sp</dimen>
+    <dimen name="textsize_ticker">150sp</dimen>
+    <dimen name="top_margin_text_currentplayer">5dp</dimen>
+    <dimen name="textsize_currentplayer">36dp</dimen>
+    <dimen name="textsize_names">20dp</dimen>
+    <dimen name="textsize_finish">52dp</dimen>
+    <dimen name="margin_button_finish">300dp</dimen>
+</resources>
